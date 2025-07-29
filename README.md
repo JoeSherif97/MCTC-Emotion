@@ -11,6 +11,8 @@
 8. [Usage Examples](#usage-examples)
 9. [Performance Metrics](#performance-metrics)
 10. [Technical Concepts](#technical-concepts)
+11. [Conclusion](#conclusion)
+12. [Trained Model Links](#trained-model-links)
 
 ---
 
@@ -400,3 +402,10 @@ For additional support or feature requests, consider:
 - Implementing multi-language support
 - Developing real-time web APIs
 - Creating mobile applications with TensorFlow Lite
+
+---
+
+## Trained Model Links
+
+[H5 Model](https://drive.google.com/file/d/1Bm0r8sRCClrhXmdqyeyR6PcbD53rDDQg/view?usp=sharing)
+[Keras Model](https://drive.google.com/file/d/1CiQTHsuTmEbwkCD6fNLQyosLPnmClUgD/view?usp=sharing)
