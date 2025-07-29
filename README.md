@@ -13,6 +13,7 @@
 10. [Technical Concepts](#technical-concepts)
 11. [Conclusion](#conclusion)
 12. [Trained Model Links](#trained-model-links)
+13. [Documentation](#documentation)
 
 ---
 
@@ -409,3 +410,10 @@ For additional support or feature requests, consider:
 
 [H5 Model](https://drive.google.com/file/d/1Bm0r8sRCClrhXmdqyeyR6PcbD53rDDQg/view?usp=sharing)
 [Keras Model](https://drive.google.com/file/d/1CiQTHsuTmEbwkCD6fNLQyosLPnmClUgD/view?usp=sharing)
+
+
+---
+
+## Documentation
+
+<a href="/MCTC_BERT.pdf" target="_blank">Documentation</a>
