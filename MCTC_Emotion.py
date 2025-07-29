@@ -1,4 +1,3 @@
-# -*- coding: utf-8 -*-
 """
 Multi-Class Text Emotion Classification using BERT
 
